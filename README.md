@@ -1,1 +1,2 @@
-# 20200117
+# 20200117 
+The very beginning of my Github journey 
